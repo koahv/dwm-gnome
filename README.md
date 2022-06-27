@@ -2,23 +2,21 @@
 
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
---------------------------------------------------------------------------------
-
-Allows you to use dwm-wm with GNOME 3 Session infrastructure in Arch Linux.
-
-
-# dwm-gnome
 Dynamic Window Manager (dwm) for Arch and Arch-based systems with Gnome-Display-Manager (GDM).
+Allows you to use dwm with GNOME 3 Session infrastructure.
+
 <br/>
-Forked from [https://github.com/palopezv/dwm-gnome/](https://github.com/palopezv/dwm-gnome/)
+
+Forked from https://github.com/palopezv/dwm-gnome/
 
 ## Information
-Script to install included dwm fork and dependencies featuring GeoIP, time and battery (if applicable) info in toolbar. Built with Arch and Gnome in mind.
+Script to install included dwm fork and dependencies featuring GeoIP, time and battery (if applicable) info in toolbar.
 <br/>
 
 Forked from [https://git.suckless.org/dwm/](https://git.suckless.org/dwm/)
 
 Homepage: [https://dwm.suckless.org/](https://dwm.suckless.org/)  
+
 </br>
 
 Configured to
@@ -43,5 +41,5 @@ Alt+x  -  show/hide toolbar
 
 
 ## Screenshot
-![alt text](https://raw.githubusercontent.com/koahv/dwm-manjaro-gnome/main/Screenshot.png?raw=true)
+![alt text](https://raw.githubusercontent.com/koahv/dwm-gnome/master/screenshot.png?raw=true)
 
