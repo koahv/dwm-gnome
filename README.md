@@ -3,7 +3,7 @@
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
 Dynamic Window Manager (dwm) for Arch and Arch-based systems with Gnome-Display-Manager (GDM).
-Allows you to use dwm with GNOME 3 Session infrastructure.
+Allows the use of dwm with GNOME 3 Session infrastructure.
 
 <br/>
 
