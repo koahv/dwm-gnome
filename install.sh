@@ -115,7 +115,7 @@ install_dwm() {
 
         echo "Authentication required to install dwm and dependencies"
 
-        sudo pacman -S base-devel make libxinerama freetype2 libxft sed dmenu feh geoip geoip-database bind xorg-server xorg-xsetroot
+        sudo pacman -S base-devel make libxinerama freetype2 libxft sed dmenu feh geoip geoip-database bind xorg-xsetroot
 
         (cd dwm; sudo make clean install)
 
