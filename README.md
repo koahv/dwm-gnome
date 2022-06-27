@@ -4,7 +4,6 @@
 
 Dynamic Window Manager (dwm) for Arch and Arch-based systems with Gnome-Display-Manager (GDM).
 Allows the use of dwm with GNOME 3 Session infrastructure.
-
 <br/>
 
 Forked from https://github.com/palopezv/dwm-gnome/
